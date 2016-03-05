@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 Create customisable arrows in interface builder directly.
                    DESC
 
-  s.homepage     = "https://www.github.com/cemolcay/IBDesignableArrowView"
+  s.homepage     = "https://github.com/cemolcay/IBDesignableArrowView"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -80,7 +80,7 @@ Create customisable arrows in interface builder directly.
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://www.github.com/cemolcay/IBDesignableArrowView.git", :tag => "v0.1" }
+  s.source       = { :git => "https://github.com/cemolcay/IBDesignableArrowView.git", :tag => "v0.1" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
