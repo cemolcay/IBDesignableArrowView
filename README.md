@@ -6,7 +6,7 @@ Create customisable arrows in interface builder directly!
 Demo
 ----
 
-![alt tag]()
+![alt tag](https://raw.githubusercontent.com/cemolcay/IBDesignableArrowView/master/demo.gif)
 
 Install
 ----
