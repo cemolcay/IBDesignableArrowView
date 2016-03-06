@@ -19,6 +19,6 @@ Usage
 ----
 
 * Drag and drop a UIView in your storyboard.
-* Set it class to IBDesignableArrowView
+* Set its class to IBDesignableArrowView
 * Go to properties tab from inspector.
-* Set arrow properties as you wanted.
+* Set arrow properties as you wish.
