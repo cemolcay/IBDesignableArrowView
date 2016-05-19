@@ -1,7 +1,7 @@
 IBDesignableArrowView
 ===
 
-Create customisable arrows in interface builder directly!
+Create [`@IBDesignable`](https://developer.apple.com/library/ios/recipes/xcode_help-IB_objects_media/Chapters/CreatingaLiveViewofaCustomObject.html#//apple_ref/doc/uid/TP40014224-CH41-SW1) arrow views in your storyboard!
 
 Demo
 ----
